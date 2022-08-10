@@ -1,6 +1,6 @@
-## Hello, welcome to Backbone DAO's Github 👋
+## Hello, welcome to Backbone's Github 👋
 
-![Backbone in a nutshell](assets/banner.png)
+![Backbone in a nutshell](https://github.com/backbonedao/.github/blob/main/profile/assets/banner.png)
 
 > Backbone DAO is an open community of engineers, creatives, and operators. We come together to build technologies to help people and businesses become more self-sovereign.
 
