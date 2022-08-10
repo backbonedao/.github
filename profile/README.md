@@ -22,7 +22,7 @@ Anyone who has skills to contribute is welcome to join.
 Backbone community has a set of principles and values that drive our efforts to help humans to become more self-sovereign.
 
 - **Self-sovereignty above all** - We believe each one of us is by default a self-sovereign being with inalienable right to decide for ourselves. Technologies available today don't reflect this truth, so we work diligently to make it a reality through Backbone technologies.
-- **Decentralization over centralization** - We believe we as humans need to find equalibrium between complete decentralization and centralized efficiency while erring on the side of decentralization. This is why everything we build is maximally decentralized by design and users are free to create their own power structures on top.
+- **Decentralization over centralization** - We believe we as humans need to find equilibrium between complete decentralization and centralized efficiency while erring on the side of decentralization. This is why everything we build is maximally decentralized by design and users are free to create their own power structures on top.
 - **Merits over posturing** - We believe people should be valued based on their merits in the community. This is why Backbone community is open and rewards anyone who contribute in making Backbone a reality, no matter where there are from, what they look like or what is their background.
 - **User-to-user over master-to-slave** - We believe people should be able to communicate and transact without being bound to rent-seeking middlemen. The technologies today don't allow this, so this is why we are building Backbone technologies to popularize user-to-user model.
 
